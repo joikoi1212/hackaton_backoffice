@@ -1,0 +1,23 @@
+{
+  "auth": {
+    "blockchain_login": "Login via Blockchain",
+    "login_button": "Entrar",
+    "validating_auth": "A validar autorização...",
+    "login_success": "Login bem-sucedido! 🚀",
+    "login_error": "Falha na autenticação.",
+    "auth_request": "Pedido de autenticação no BackOffice.",
+    "no_wallet_detected": "Contactar a nstech para obter acesso. Obrigado !",
+    "wallet_error": "Erro de Ligação. Tente novamente mais tarde.",
+    "blockchain_online": "Blockchain online.",
+    "blockchain_offline": "Blockchain offline.",
+    "verifying": "A verificar...",
+    "loading_auth": "A autenticar...",
+    "network_error": "Erro de ligação ao servidor."
+  },
+  "error": {
+    "page_not_found": "Página não encontrada.",
+    "server_error": "Erro no servidor.",
+    "redirecting_auth": "A redirecionar para autenticação...",
+    "blockchain_status_fail": "Erro ao verificar o estado da blockchain."
+  }
+}
