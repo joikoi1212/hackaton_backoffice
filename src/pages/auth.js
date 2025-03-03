@@ -23,7 +23,7 @@ export default function Auth() {
   useEffect(() => {
     const checkBlockchainStatus = async () => {
       try {
-        const { data, status } = await axios.get(`${API_URL}/api/blockchain-status`, {
+        const { data, status } = await axios.get(`${API_URL}api/blockchain-status`, {
           validateStatus: () => true, // Permite capturar qualquer status sem erro
         });
 
